@@ -28,5 +28,13 @@ public class lib {
         else return 0;
         
     }
+
+    static int sum(int a, int b){
+        return a + b;
+    }
+
+    static int mult(int a, int b){
+        return a * b;
+    }
 }
 

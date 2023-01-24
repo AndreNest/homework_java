@@ -10,5 +10,6 @@ public class task_02 {
                 System.out.printf("%d ", i);
             }
         }
+        iScanner.close();
     } 
 }
